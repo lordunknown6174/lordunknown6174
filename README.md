@@ -1,0 +1,5 @@
+- 👋 Hi, I’m lordunknown
+- 👀 I’m interested in python and c
+- 🌱 I’m currently learning life
+- 💞️ I’m looking to collaborate on python
+- 📫 How to reach me lordunknown6174@gmail.com
